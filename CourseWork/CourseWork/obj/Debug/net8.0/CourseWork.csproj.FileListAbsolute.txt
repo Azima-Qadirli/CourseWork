@@ -1,0 +1,14 @@
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\bin\Debug\net8.0\CourseWork.exe
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\bin\Debug\net8.0\CourseWork.deps.json
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\bin\Debug\net8.0\CourseWork.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\bin\Debug\net8.0\CourseWork.dll
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\bin\Debug\net8.0\CourseWork.pdb
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\CourseWork.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\CourseWork.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\CourseWork.dll
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\refint\CourseWork.dll
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\CourseWork.pdb
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\CourseWork.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\CourseWork\CourseWork\CourseWork\obj\Debug\net8.0\ref\CourseWork.dll
