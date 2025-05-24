@@ -34,10 +34,6 @@ DNS spoofing kimi hücumlara qarşı qorunmaq üçün aşağıdakı tədbirləri
 - TLS/HTTPS istifadəsini təşviq edin.
 - DNS-over-HTTPS (DoH) və DNS-over-TLS (DoT) texnologiyalarına keçid edin.
 
-## 🌍 Maraqlı Faktlar
-
-- **2008-ci ildə**, Dan Kaminsky DNS sistemində kritik bir boşluq aşkar etdi və bu, internetdə DNS təhlükəsizliyinə baxışı dəyişdi.
-- **2019-cu ildə**, "Phantom DNS Spoofing" adlı hücum minlərlə DNS serverini təsir altına aldı və bank xidmətlərini hədəf aldı.
 
 ## 📜 Qeyd
 
